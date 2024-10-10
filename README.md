@@ -32,12 +32,3 @@ The validation process followed in this project involved six key stages to ensur
 | 4    | **Add**    | Add important features if needed.                                           |
 | 5    | **Document**| Provide feedback, communicate with other teams, and create documentation.  |
 | 6    | **Export** | Export the data and hand it over to the pre-processing team.                 |
-
-## 📁 Repository Contents
-The repository is structured to include my work on data validation and preprocessing tasks:
-
-- **`validation_scripts/`**  
-  Contains Python scripts used for data validation and filtering tasks.
-
-- **`reports/`**  
-  Includes reports detailing validation processes, techniques, and results of data quality checks.
